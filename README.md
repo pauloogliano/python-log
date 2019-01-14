@@ -1,2 +1,5 @@
 # python-log
-Basic command to write logs.
+
+---
+
+Basic command to write logs in txt format.
